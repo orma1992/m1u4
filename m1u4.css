@@ -1,0 +1,28 @@
+h1{
+    color: blue;
+    background-color: darkcyan;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+h2{
+    color: blueviolet;
+    background-color: blue;
+}
+
+h3{
+    color:darkgreen;
+    font-family: 'Gill Sans';
+}
+
+.destacados{
+    color:red;
+    font-weight: bolder;
+}
+
+p{
+    color: cornflowerblue;
+    text-align: center;
+    line-height: 15px;
+    font-family: Verdana;
+}
